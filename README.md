@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhishek-Sumn
-- 👀 I’m interested in coding
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me abhisheksumancode@gmail.com
