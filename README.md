@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhishek-Sumn
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on projects
+- 🌱 I’m currently learning nextjs && Devops
+- 💞️ I’m looking for internships where i can utilise my skill and contribute
 - 📫 How to reach me abhisheksumancode@gmail.com
 
 <!---
