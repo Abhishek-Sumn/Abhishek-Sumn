@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Abhishek-Sumn
-- 👀 I’m interested in TECH && Frontend && Devops
+- 💞️ I’m interested in Frontend && Devops
 - 🌱 I’m currently learning nextjs && Devops
-- 💞️ I’m looking for internships where i can utilise my skill and contribute
+- 🛠️ Building AutoCommander (Nextjs + Aceternity UI + Zustand )
+- 👀 I’m looking for Projects where i can utilise my skills and contribute to the project 
 - 📫 How to reach me abhisheksumancode@gmail.com
 - I love solving problems and leetcoding
 <!---
