@@ -3,6 +3,7 @@
 I'm a 23-year-old developer based in India, and I'm passionate about crafting digital experiences. 
 
 - Check out my [website](https://abhisheksuman.me/) to learn more about me.
+- Building AutoCommand with NextJs-Zustand-Postgres
  
 ## 📦 Toolbox
 
