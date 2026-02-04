@@ -5,23 +5,17 @@ I'm a 23-year-old developer based in India, passionate about building practical 
 - 🌐 Check out my [website](https://abhisheksuman.me/) to learn more about me  
 - 📘 Currently reading *System Design Interview: An Insider’s Guide* by Alex Xu  
 
-## 🚀 Current Projects
+## 🔗 Current Projects
 
-🦞 **Pawli Desktop Companion**  
-Cute Interactive kitty on your desktop  
-> Multi display awareness (can jump across displays).
-> Super low resource consumption.
-> Hard coded in Objective-C and CPP. (Only to keep resorce usage Low)
+- 🦞 **Pawli Desktop Companion** — Cute, interactive Windows kitty with near-zero resource usage  
+  - Multi-display aware (jumps across screens)  
+  - Built in Objective-C + C++ for performance  
 
-🚇 **DSAVis**  
-DSA Visualizer but on literal steroids.  
-A custom-built DSL interpreter: Lexer → Parser → AST → Executor.
- 
-> Visualize graph making nodes, attaching edges basically full cycle
-> Linked list nodes visualization
-> 2D Array simulation
+- 🚀 **DSAVis** — A DSA visualizer powered by a custom execution DSL  
+  - Lexer → Parser → AST → Executor  
+  - Visualizes graphs, linked lists, and 2D arrays  
+  - https://dsavis.com/
 
-> 🔗 https://dsavis.com/
 
 ## 📦 Toolbox
 
