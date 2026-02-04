@@ -9,7 +9,8 @@ I'm a 23-year-old developer based in India, passionate about building practical 
 
 - 🦞 **Pawli Desktop Companion** — Cute, interactive Windows kitty with near-zero resource usage  
   - Multi-display aware (jumps across screens)  
-  - Built in Objective-C + C++ for performance  
+  - Built in Objective-C + C++ for performance
+  - https://github.com/Abhishek-Sumn/Pawli/
 
 - 🚀 **DSAVis** — A DSA visualizer powered by a custom execution DSL  
   - Lexer → Parser → AST → Executor  
