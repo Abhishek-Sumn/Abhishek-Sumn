@@ -1,6 +1,6 @@
 ### Hi, I'm Abhishek 👋🏽  
 
-I'm a 23-year-old developer based in India, passionate about building practical systems that actually ship and scale.
+I'm a 24-year-old developer based in India, passionate about building practical systems that actually ship and scale.
 
 - 🌐 Check out my [website](https://abhisheksuman.me/) to learn more about me  
 - 📘 Currently reading *System Design Interview: An Insider’s Guide* by Alex Xu  
